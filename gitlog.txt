@@ -1,0 +1,71 @@
+commit 4a8b1c5ef2714acc6d3259c05337e411e0c94ad5
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 09:19:38 2016 -0500
+
+    Final project
+
+commit 7548e459549d8e022a62bcb00ece3cc63600ac31
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 07:38:37 2016 -0500
+
+    updates to the testing file
+
+commit 676d46226fa168131bc5ceb4366fd0c9254526e3
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 06:37:22 2016 -0500
+
+    added readme
+
+commit 8852b1305990d913a16acd8f75ad5e599cdf4538
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 05:23:24 2016 -0500
+
+    Updates to makefile
+
+commit 4bdedbcd8a5e9ea30e5c269105669031b2ff999e
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:30:40 2016 -0500
+
+    minor changes to hw2a.c
+
+commit f224a58327bc34d9cfad52a2f35997a68eccd752
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:13:36 2016 -0500
+
+    the makefile that I created for this project
+
+commit 970cc8399619983d7c0a7552aa7490f45a2e6ca8
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:11:36 2016 -0500
+
+    the header file for dnasearch.c
+
+commit 341aa8a3a3a9c7b08dff63799c40c9536f7c2cc6
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:11:09 2016 -0500
+
+    the dnasearch.c file which contains all of the methods we need for the project.
+
+commit 9390482a6dd4e852fcab8e7e3aee0c07c0604a49
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:10:19 2016 -0500
+
+    the tests file for the dnasearch methods
+
+commit ad31a1ee5b9b11af7bbbd45d6dc66e2f028f6aca
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:09:06 2016 -0500
+
+    The hw2a.c file with main driver for the project
+
+commit 4dfc9e5aedb2ae880ea1296d72bd027daa2f10e0
+Author: Anuj Mehndiratta <anujmehndiratta1@Anujs-MacBook-Pro.local>
+Date:   Tue Feb 23 02:08:01 2016 -0500
+
+    Added test file
+
+commit cd91890082d4deed72ffe45961c5bf0866344dca
+Author: Anuj Mehndiratta <amehndi1@ugrad13.cs.jhu.edu>
+Date:   Fri Feb 12 12:55:46 2016 -0500
+
+    Initial commit with file.txt
